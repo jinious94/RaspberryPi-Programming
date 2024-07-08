@@ -72,15 +72,6 @@ int main() {
 			toggle(RED); 
 			delay(tm);
 		}
-		
-	// wPi 2번에 연결된 버튼을 누른다.
-	//int btn = digitalRead(SWITCH);
-
-	// 버튼은 풀업 저항이기 때문에 누르면 1(HIGH) -> 0(LOW)이 된다.
-	//if (btn == 0) {
-
-	//}
-	
 
 	}
 	
